@@ -1,0 +1,6 @@
+# files from building
+*.o
+*.a
+
+# executables
+chat
